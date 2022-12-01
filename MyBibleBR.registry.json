@@ -9,15 +9,7 @@
       "description": "Bíblia Literal do Texto Tradicional Anotada",
       "update_date": "2022-07-04",
       "update_info": "(2022-07-04) Published",
-      "download_url": "https://www.ph4.org/_dl.php?back=bbl&a=LTT&b=mybible&c"
-    },
-    {
-      "file_name": "ACF'11.zip",
-      "language_code": "pt",
-      "description": "Almeida Corrigida Fiel",
-      "update_date": "2022-07-04",
-      "update_info": "(2022-07-04) Published",
-      "download_url": "https://www.ph4.org/_dl.php?back=bbl&a=ACF%272011&b=mybible&c"
+      "download_url": "https://github.com/pepaulo/Open-Source-Catholic-Bible/blob/main/LTT.zip"
     }
     ]
 }
