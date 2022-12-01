@@ -5,11 +5,11 @@ Motto: Open source evangelism
 
 General Objective: Development of open source multiplatform Bible study software that allows compatibility with Bible and study modules used by free but not open source programs such as: MySword (R), MyBible (R), e-Sword (R) , theWord (R).
 
-Development language: Python
+Development language: JavaScript, CSS, Html
 
 Compatibility: Multiplatform
 
-License: Free licenses (MIT, GNU ...)
+License: Free licenses (GNU ...)
 
 Implementations:
 
@@ -26,11 +26,11 @@ Lema: A evangelização em código aberto
 
 Objetivo Geral: Desenvolvimento de Software de estudo bíblico multiplataforma em código aberto que permita a compatibibilidade com módulos bíblicos e de estudos utilizados por programas gratuitos, mas não open source como: MySword (R), MyBible (R), e-Sword (R), theWord (R).
 
-Linguagem de desenvolvimento: Python
+Linguagem de desenvolvimento:JavaScript, CSS, Html
 
 Compatibilidade: Multiplataforma
 
-Licença: Licenças livres (MIT, GNU ...)
+Licença: Licenças livres (GNU ...)
 
 Implementações: 
 
