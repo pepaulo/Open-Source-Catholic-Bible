@@ -1,0 +1,23 @@
+{
+  "url": "https://dl.dropbox.com/s/ykjhyxqx7xc2itu/Zhuromsky.registry.json",
+  "description": "Modulos providos pela Comunidade MyBibleBR",
+  "file_name": "MyBibleBR.registry.json",
+  "modules": [
+    {
+      "file_name": "LTT.zip",
+      "language_code": "pt",
+      "description": "Bíblia Literal do Texto Tradicional Anotada",
+      "update_date": "2022-07-04",
+      "update_info": "(2022-07-04) Published",
+      "download_url": "https://www.ph4.org/_dl.php?back=bbl&a=LTT&b=mybible&c"
+    },
+    {
+      "file_name": "ACF'11.zip",
+      "language_code": "pt",
+      "description": "Almeida Corrigida Fiel",
+      "update_date": "2022-07-04",
+      "update_info": "(2022-07-04) Published",
+      "download_url": "https://www.ph4.org/_dl.php?back=bbl&a=ACF%272011&b=mybible&c"
+    }
+    ]
+}
